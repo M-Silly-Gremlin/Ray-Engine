@@ -6,8 +6,8 @@ Features
 - Cross-platform: Built with OpenGL for easy porting to Windows, Linux, and macOS.
 - Raycasting Renderer: A simple raycasting rendering method for creating pseudo-3D environments.
 - Level Editor: An intuitive level editor for designing and customizing game levels.
-- Custom Scripting: Support for scripting weapons, NPCs, and entities using `.C` files.
-- Organized Folder Structure**: A structured project layout for scripts, sprites, maps, and binaries.
+- Custom Scripting: Support for scripting weapons, NPCs, and entities using `.cpp` files.
+- Organized Folder Structure: A structured project layout for scripts, sprites, maps, and binaries.
 
 Getting Started
 
