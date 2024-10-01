@@ -1,6 +1,6 @@
-Ray Engine
+Rayth
 
-Ray Engine is an open-source, lightweight game engine built using OpenGL and designed for easy development of 2.5D raycasting-style games, similar to classic FPS games like Doom and Build games. The engine is designed to be simple, customizable, and adaptable for both beginner and experienced developers.
+Rayth is an open-source, lightweight game engine built using OpenGL and designed for easy development of 2.5D raycasting-style games, similar to classic FPS games like Doom and Build games. The engine is designed to be simple, customizable, and adaptable for both beginner and experienced developers.
 
 Features
 - Cross-platform: Built with OpenGL for easy porting to Windows, Linux, and macOS.
